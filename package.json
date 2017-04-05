@@ -2,49 +2,49 @@
   "_args": [
     [
       {
-        "raw": "highlight.js@^9.3.0",
+        "raw": "mc-highlight.js",
         "scope": null,
-        "escapedName": "highlight.js",
-        "name": "highlight.js",
-        "rawSpec": "^9.3.0",
-        "spec": ">=9.3.0 <10.0.0",
-        "type": "range"
+        "escapedName": "mc-highlight.js",
+        "name": "mc-highlight.js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
       },
-      "/Users/iandaniel/Code/MC-Electron-App/node_modules/react-highlight.js"
+      "/Users/iandaniel/Code/mc-highlight.js"
     ]
   ],
-  "_from": "highlight.js@>=9.3.0 <10.0.0",
-  "_id": "highlight.js@9.9.0",
+  "_from": "mc-highlight.js@latest",
+  "_id": "mc-highlight.js@9.10.0",
   "_inCache": true,
   "_location": "/highlight.js",
   "_nodeVersion": "4.5.0",
   "_npmOperationalInternal": {
     "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/highlight.js-9.9.0.tgz_1481699560182_0.4400122242514044"
+    "tmp": "tmp/highlight.js-9.10.0.tgz_1488958580032_0.6692452053539455"
   },
   "_npmUser": {
-    "name": "isagalaev",
-    "email": "maniac@softwaremaniacs.org"
+    "name": "death667b",
+    "email": "idaniel@spinnys.com"
   },
   "_npmVersion": "2.15.9",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "highlight.js@^9.3.0",
+    "raw": "mc-highlight.js",
     "scope": null,
-    "escapedName": "highlight.js",
-    "name": "highlight.js",
-    "rawSpec": "^9.3.0",
-    "spec": ">=9.3.0 <10.0.0",
-    "type": "range"
+    "escapedName": "mc-highlight.js",
+    "name": "mc-highlight.js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
   },
   "_requiredBy": [
-    "/react-highlight.js"
+    "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/highlight.js/-/highlight.js-9.9.0.tgz",
-  "_shasum": "b9995dcfdc2773e307a34f0460d92b9a474782c0",
+  "_resolved": "https://registry.npmjs.org/highlight.js/-/highlight.js-9.10.0.tgz",
+  "_shasum": "f9f0b14c0be00f0e4fb1e577b749fed9e6f52f55",
   "_shrinkwrap": null,
-  "_spec": "highlight.js@^9.3.0",
-  "_where": "/Users/iandaniel/Code/MC-Electron-App/node_modules/react-highlight.js",
+  "_spec": "mc-highlight.js",
+  "_where": "/Users/iandaniel/Code/mc-highlight.js",
   "author": {
     "name": "Ivan Sagalaev",
     "email": "maniac@softwaremaniacs.org"
@@ -57,6 +57,10 @@
       "name": "Ivan Sagalaev",
       "email": "maniac@softwaremaniacs.org",
       "url": "original author"
+    },
+    {
+      "name": "Ian Daniel",
+      "email": "idaniel@spinnys.com"
     },
     {
       "name": "Jeremy Hull",
@@ -957,6 +961,46 @@
     {
       "name": "Michael Rodler",
       "email": "contact@f0rki.at"
+    },
+    {
+      "name": "Sergey Sobko",
+      "email": "s.sobko@profitware.ru"
+    },
+    {
+      "name": "Hale Chan",
+      "email": "halechan@qq.com"
+    },
+    {
+      "name": "Matt Evans",
+      "email": "syrius3@gmail.com"
+    },
+    {
+      "name": "Kasper Andersen",
+      "email": "kma_untrusted@protonmail.com"
+    },
+    {
+      "name": "Philipp A.",
+      "email": "flying-sheep@web.de"
+    },
+    {
+      "name": "Guannan Wei",
+      "email": "guannanwei@outlook.com"
+    },
+    {
+      "name": "Sam Wu",
+      "email": "samsam2310@gmail.com"
+    },
+    {
+      "name": "Ike Ku",
+      "email": "dempfi@yahoo.com"
+    },
+    {
+      "name": "Andres Täht",
+      "email": "andres.taht@gmail.com"
+    },
+    {
+      "name": "Rene Saarsoo",
+      "email": "nene@triin.net"
     }
   ],
   "dependencies": {},
@@ -977,8 +1021,8 @@
   },
   "directories": {},
   "dist": {
-    "shasum": "b9995dcfdc2773e307a34f0460d92b9a474782c0",
-    "tarball": "https://registry.npmjs.org/highlight.js/-/highlight.js-9.9.0.tgz"
+    "shasum": "f9f0b14c0be00f0e4fb1e577b749fed9e6f52f55",
+    "tarball": "https://registry.npmjs.org/highlight.js/-/highlight.js-9.10.0.tgz"
   },
   "engines": {
     "node": "*"
@@ -1000,16 +1044,16 @@
       "email": "maniac@softwaremaniacs.org"
     }
   ],
-  "name": "highlight.js",
+  "name": "mc-highlight.js",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/isagalaev/highlight.js.git"
+    "url": "git://github.com/death667b/mc-highlight.js.git"
   },
   "scripts": {
     "test": "mocha test/",
     "test-browser": "mocha test/browser/"
   },
-  "version": "9.9.0"
+  "version": "9.10.0"
 }
