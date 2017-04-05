@@ -5,7 +5,7 @@ This has been copied from https://highlightjs.org/ and modified to suit
 my needs.  I do not claim any ownership of the code other than what I
 have changed for my personal needs.
 
-
+## Description
 Highlight.js is a syntax highlighter written in JavaScript. It works in
 the browser as well as on the server. It works with pretty much any
 markup, doesn’t depend on any framework and has automatic language
