@@ -1,6 +1,6 @@
 # Highlight.js
 
-##Note:
+## Note
 This has been copied from https://highlightjs.org/ and modified to suit 
 my needs.  I do not claim any ownership of the code other than what I
 have changed for my personal needs.
